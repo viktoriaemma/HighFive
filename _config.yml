@@ -1,1 +1,2 @@
 theme: jekyll-theme-minimal
+ignore_theme_config: true
